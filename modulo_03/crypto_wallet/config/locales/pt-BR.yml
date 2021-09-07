@@ -1,0 +1,26 @@
+pt-BR:
+  local_language: "Utilizando idioma Português do Brasil"
+  Hello_welcome: "Olá, bem-vindo"
+  hello: "olá"
+  Welcome !: "Bem Vindo !"
+  Data: "Data: "
+  select: "Selecione..."
+  msgs:
+    welcome: "Este é a crypto carteira, um app para registro e controle das suas crypto moedas !!!"
+    menu: "Para começar selecione uma das seguintes opções:"
+    confirm: "Tem certeza?"
+  new:
+    coin: "Nova Moeda"
+    miningtype: "Novo Tipo de Mineração"
+  edit:
+    coin: "Editando Moeda"
+    type: "Editando Tipo de Mineração"
+  links:
+    edit: "Editar"
+    show: "Mostrar"
+    delete: "Apagar"
+    back: "Voltar"
+    description: "Descrição:"
+    acronym: "Sigla:"
+    url image: "Url da Imagem:"
+    miningtype: "Tipo de Mineração:"

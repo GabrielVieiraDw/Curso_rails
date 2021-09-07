@@ -1,0 +1,30 @@
+"pt-BR":
+  activerecord:
+    models:
+      coin: 
+        one: Moeda
+        other: Moedas
+      mining_type: 
+        one: Tipo de Mineração
+        other: Tipos de Mineração
+      options:
+        select: Selecione...
+    attributes:
+      coin:
+        coins: Moedas
+        id: Código
+        description: Descrição
+        acronym: Sigla
+        url_image: Url imagem
+        mining_type: Tipo de mineração
+        mining_type_id: ID da mineração
+        updated_at: Atualizando em
+        created_at: Criado em
+      mining_type:
+        Mining Types: Tipos de Mineração
+        id: Código
+        description: Descrição
+        acronym: Sigla
+        updated_at: Atualizando em
+        created_at: Criado em
+      #will translate User attribute "login" as "Handle"
